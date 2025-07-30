@@ -1,16 +1,8 @@
-# Hey there! 👋 I'm Henrix06
+# Hey there! 👋 I'm Henrix
 
 ## 🚀 About Me
 
-<!-- Add your interesting facts here -->
-- 🔭 I'm currently working on **[Your current project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[What you want to collaborate on]**
-- 🤔 I'm looking for help with **[What you need help with]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[Your contact information]**
-- 😄 Pronouns: **[Your pronouns]**
-- ⚡ Fun fact: **[A fun fact about you]**
+
 
 ## 📊 GitHub Statistics
 
