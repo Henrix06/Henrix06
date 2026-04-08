@@ -8,7 +8,6 @@ I'm **Henrix06**, a passionate developer committed to building innovative soluti
 - 💻 Full-stack developer with experience in multiple technologies
 - 🌱 Continuously learning and exploring new technologies
 - 🤝 Open to collaboration and contributing to meaningful projects
-- 📍 Active contributor to open-source communities
 
 
 *Last updated: April 2026*
