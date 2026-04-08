@@ -34,26 +34,5 @@ I'm **Henrix06**, a passionate developer committed to building innovative soluti
 
 ![Henrix06's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henrix06&show_icons=true&theme=radical)
 
-## 🎯 Featured Projects
-
-Here are some of my notable projects:
-
-- **[Project Name](link)** - Brief description of what this project does
-- **[Project Name](link)** - Brief description of what this project does
-
-## 📫 Get in Touch
-
-- **GitHub:** [@Henrix06](https://github.com/Henrix06)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 💡 Recent Interests
-
-- Cloud Technologies
-- Machine Learning
-- Web Development
-- DevOps
-
----
 
 *Last updated: April 2026*
